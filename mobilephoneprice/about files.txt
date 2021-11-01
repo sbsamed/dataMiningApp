@@ -1,0 +1,5 @@
+one.py -> discarding values ​​that are two standard deviations from the center
+three_four.py -> entropi and informationgain
+five.py -> pca app
+six.py & six2.py -> knn algorithm
+mobilephonepricerange -> data set
